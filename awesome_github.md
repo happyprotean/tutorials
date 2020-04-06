@@ -50,3 +50,6 @@
 [face-attribute-prediction](https://github.com/d-li14/face-attribute-prediction) ： pytorch，使用ResNet和MobileNet
 
 [FaceAttribute](https://github.com/WynMew/FaceAttribute) : pytorch，使用focal loss对六个属性进行预测
+
+[fastai-face-attr](https://github.com/aayushmnit/Deep_learning_explorations): 使用fastai进行属性预测
+
